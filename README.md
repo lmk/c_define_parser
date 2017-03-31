@@ -28,3 +28,6 @@ $ find_const.py 0x03
 5. dic_command에 저장된 상수 값을 찾아서 치환 한다.
 6. dic_command의 key, value 값을 바꿔서 dic_command_r에 저장한다.
 7. 값으로 상수를 찾는다.
+
+## 선행 작업
+find_const.py 파일 9번째 줄에 FILE_PATH 배열에 파싱할 헤더파일 목록을 추가합니다.
