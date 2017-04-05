@@ -14,7 +14,7 @@ error.h 파일의 내용이 아래와 같을 때
 
 ```bash
 $ find_const.py 1
-0 is ERROR_LOGIN
+1 is ERROR_LOGIN
 
 $ find_const.py 0x03
 0x03 is ERROR_DEVICE
